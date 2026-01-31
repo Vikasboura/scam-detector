@@ -17,6 +17,17 @@ This project is a full-stack **AI-powered Scam Detector** that analyzes web page
 *   **Risk Scoring**: Provides a clear 0-100 risk score with a "Safe", "Suspicious", or "High Risk" verdict.
 *   **Detailed Insights**: Explains *why* a page is dangerous (e.g., "Urgency", "Request for Sensitive Data").
 *   **WhatsApp Integration**: (Optional) Analyze messages via a WhatsApp bot.
+*   **Demo Video**: [Watch Demo](#demo-video)
+
+## 🎥 Demo Video
+
+![Demo Preview](https://github.com/user-attachments/assets/placeholder)
+
+> **To add your video:**
+> 1. Go to this file on GitHub.
+> 2. Click "Edit" (pencil icon).
+> 3. Drag and drop your video file here.
+> 4. GitHub will generate a link. Replace the placeholder above with it.
 
 ## 🚀 Tech Stack
 
