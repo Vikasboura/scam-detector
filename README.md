@@ -21,13 +21,12 @@ This project is a full-stack **AI-powered Scam Detector** that analyzes web page
 
 ## 🎥 Demo Video
 
-![Demo Preview](https://github.com/user-attachments/assets/placeholder)
+<video src="demo video/compressed-video.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
-> **To add your video:**
-> 1. Go to this file on GitHub.
-> 2. Click "Edit" (pencil icon).
-> 3. Drag and drop your video file here.
-> 4. GitHub will generate a link. Replace the placeholder above with it.
+[Download/Watch Video File](demo%20video/compressed-video.mp4)
+
+> **Note**: If the video doesn't play directly above, click the link to view it.
 
 ## 🚀 Tech Stack
 
