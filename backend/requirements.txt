@@ -8,13 +8,6 @@ python-dotenv
 twilio
 openai
 requests
-scikit-learn
 pandas
-requests
-google-generativeai
-python-dotenv
-joblib
 numpy
-twilio
-python-multipart
 gunicorn

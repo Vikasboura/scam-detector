@@ -11,6 +11,14 @@ import logging
 
 app = FastAPI(title="AI Scam Detection API")
 
+@app.get("/")
+def read_root():
+    return {
+        "status": "running",
+        "message": "AI Scam Detection API is active",
+        "docs_url": "/docs"
+    }
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  # Change in production
